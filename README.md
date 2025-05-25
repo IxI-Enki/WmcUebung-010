@@ -17,4 +17,4 @@ Das Ziel bestand darin, ein Express-Testskript eigenständig zu entwickeln und i
 - 404-Seite für nicht vorhandene Pfade
 - Statische HTML-Dateien aus dem `public/`-Ordner
 
-<img src="img/.png">
+<img src="img/express-test.png">
